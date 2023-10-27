@@ -1,0 +1,5 @@
+20231027	13:26:52	386fe058-ccac-4d48-9696-b6e6d62e4add	TypeError: fsPromises.readFil is not a function
+20231027	16:01:56	b6a522bc-afad-466d-a505-6cdd4a968f74	Error: Now allowed by CORS
+20231027	16:01:56	12beafbe-bd70-420c-9f7f-20978959122f	Error: Now allowed by CORS
+20231027	16:01:58	02bcdfe1-39af-446f-9172-23509080d349	Error: Now allowed by CORS
+20231027	16:18:09	26a86db8-3b8e-49a7-9527-096fcbac2c92	Error: ENOENT: no such file or directory, stat 'C:\Users\Zua\Documents\Prjs\BEnds\node\routes\views\subdir\index.html'
